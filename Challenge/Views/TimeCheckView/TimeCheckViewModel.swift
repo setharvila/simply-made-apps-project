@@ -1,3 +1,6 @@
+// TimeCheckViewModel.swift
+// View model for the TimeCheckView, drives the core functionality of the app
+
 import Foundation
 import SwiftUI
 import UIKit

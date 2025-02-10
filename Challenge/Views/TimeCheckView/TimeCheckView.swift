@@ -1,3 +1,7 @@
+// TimeCheckView.swift
+// This is the main view and entry point into the app. It allows users to input a date and time and it tells them if the date supplied is within office hours.
+
+
 import SwiftUI
 
 struct TimeCheckView: View {

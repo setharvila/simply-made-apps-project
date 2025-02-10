@@ -1,8 +1,8 @@
-//
 //  ResultStates.swift
-//  Challenge
 //
-//  Created by Seth Arvila on 2/7/25.
+//  This enum is used to enumerate between possible result states in the app this helps the app determine what to present to the user, such as background, messages, and symbols
+//
+//
 //
 
 import Foundation

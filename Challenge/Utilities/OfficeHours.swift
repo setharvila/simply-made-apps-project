@@ -1,8 +1,7 @@
-//
 //  OfficeHours.swift
-//  Challenge
 //
-//  Created by Seth Arvila on 2/6/25.
+//  This is a class that implements the features of office hours
+//
 
 import Foundation
 

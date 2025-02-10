@@ -1,8 +1,7 @@
-//
 //  DateSelectorView.swift
-//  Challenge
+//  This view includes a date picker with a background.
 //
-//  Created by Seth Arvila on 2/6/25.
+//  
 //
 
 
@@ -10,7 +9,6 @@ import SwiftUI
 
 struct DateSelectorView: View {
     @StateObject var viewModel: TimeCheckViewModel
-//    @Binding var selectedDate: Date
     var body: some View {
         VStack {
             Text("When would you like to check?")

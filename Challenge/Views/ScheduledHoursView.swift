@@ -1,8 +1,7 @@
-//
 //  ScheduledHoursView.swift
-//  Challenge
+//  This view displays the dates that office hours are scheduled for.
 //
-//  Created by Seth Arvila on 2/6/25.
+//  
 //
 
 
