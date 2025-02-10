@@ -30,8 +30,8 @@
             filePath = "ChallengeTests/TimeCheckViewModelTests.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "109"
-            endingLineNumber = "109"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
             landmarkName = "testBoolForIsWithinOfficeHours_ReturnTrueExactEnd()"
             landmarkType = "7">
          </BreakpointContent>
@@ -46,8 +46,8 @@
             filePath = "ChallengeTests/TimeCheckViewModelTests.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "126"
-            endingLineNumber = "126"
+            startingLineNumber = "125"
+            endingLineNumber = "125"
             landmarkName = "testBoolForIsWithinOfficeHours_ReturnFalseAfterEnd()"
             landmarkType = "7">
          </BreakpointContent>
