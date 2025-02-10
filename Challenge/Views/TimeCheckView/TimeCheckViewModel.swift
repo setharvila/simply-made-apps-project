@@ -22,7 +22,7 @@ class TimeCheckViewModel: ObservableObject {
     }
     
     
-    // Returs a background gradient based on the result
+    // Returns a background gradient based on the result
     func getBGGradient() -> LinearGradient {
         let startPoint: UnitPoint = .topLeading
         let endPoint: UnitPoint = .bottomTrailing
